@@ -1,0 +1,7 @@
+0.6
+2019.1
+May 24 2019
+14:51:52
+/home/it/Documents/DCD_Labs/TASK5_LAB3/TASK5_LAB3.sim/sim_1/behav/xsim/glbl.v,1558713910,verilog,,,,glbl,,,,,,,,
+/home/it/Documents/DCD_Labs/TASK5_LAB3/TASK5_LAB3.srcs/sim_1/new/tb_endcoder.v,1732287488,verilog,,,,tb_encoder_4bit,,,,,,,,
+/home/it/Documents/DCD_Labs/TASK5_LAB3/TASK5_LAB3.srcs/sources_1/new/priorty_encod_4bits.v,1732287453,verilog,,/home/it/Documents/DCD_Labs/TASK5_LAB3/TASK5_LAB3.srcs/sim_1/new/tb_endcoder.v,,priority_encod_4bits,,,,,,,,

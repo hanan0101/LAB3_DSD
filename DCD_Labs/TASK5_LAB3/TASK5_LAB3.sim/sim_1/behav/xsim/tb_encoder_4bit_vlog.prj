@@ -1,0 +1,10 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../TASK5_LAB3.srcs/sources_1/new/priorty_encod_4bits.v" \
+"../../../../TASK5_LAB3.srcs/sim_1/new/tb_endcoder.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

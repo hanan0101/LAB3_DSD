@@ -1,0 +1,7 @@
+Running: xsim.dir/priority_encod_4bits_behav/xsimk -simmode gui -wdb priority_encod_4bits_behav.wdb -simrunnum 0 -socket 52915
+Design successfully loaded
+Design Loading Memory Usage: 32980 KB (Peak: 33556 KB)
+Design Loading CPU Usage: 20 ms
+Simulation completed
+Simulation Memory Usage: 114716 KB (Peak: 172248 KB)
+Simulation CPU Usage: 70 ms

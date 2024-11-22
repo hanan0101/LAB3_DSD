@@ -1,0 +1,12 @@
+Vivado Simulator 2019.1
+Time resolution is 1 ps
+Time      Input        Window      Index
+10000     11111010     1010      000
+20000     11101010     1010      000
+30000     00010100     1010      001
+40000     11010100     1010      001 
+50000     10101000     1010      010
+60000     10100000     1010      100
+70000     10101010     1010      000
+80000   |  11111111   |  1010   |   111
+$finish called at time : 80 ns : File "/home/it/Documents/DCD_Labs/TASK5_LAB3/TASK5_LAB3.srcs/sim_1/new/tb_endcoder.v" Line 42
